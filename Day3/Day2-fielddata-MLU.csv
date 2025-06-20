@@ -1,0 +1,83 @@
+Species_ID,Ab,Group,Area
+Hedera  helix,5,plant,A
+Acer pseudoplatanus,16,plant,A
+Impatiens glandulifera,14,plant,A
+Geum urbanum,15,plant,A
+lactuca serriola,1,plant,A
+Aegopodium podagraria,3,plant,A
+Chaerophyllum temulum,6,plant,A
+Sambucus nigra,2,plant,A
+Rubus fruticosus agg.,10,plant,A
+Crataegus monogyna,12,plant,A
+Fraxinus excelsior,2,plant,A
+Sacrophaga carnaria,1,animal,A
+Turdus merula,1,animal,A
+Anas platyrhynchos,1,animal,A
+Chloris chloris,1,animal,A
+Erithacus rubecula,1,animal,A
+Porcellio scaber,5,animal,A
+Lasius niger,23,animal,A
+Psyllobora vigintiduopunctata,1,animal,A
+Syrphidae,1,animal,A
+Theridion spp.,1,animal,A
+Metcalfa p,1,animal,A
+Acer platanoides,4,Plants,B
+Hieracium,210,Plants,B
+Plantago lanceolata,10,Plants,B
+Bellis perennis,20,Plants,B
+Taraxacum,22,Plants,B
+Achillea millefolium,60,Plants,B
+Cerastium fontanum,17,Plants,B
+Sedum acre,9,Plants,B
+Philadelphus lewisii,4,Plants,B
+Forsythia viridissima,1,Plants,B
+Turdus merula,1,Animals,B
+Euonymus ,2,Animals,B
+Araneidae,1,Animals,B
+Calliphora vicina,1,Animals,B
+Coccinelidae Puppae,5,Animals,B
+Camponotus,30,Animals,B
+Amara aenea,1,Animals,B
+Anthrax anthrax,1,Animals,B
+Bombus,2,Animals,B
+Hedera helix ,2,Plants,C
+Sorbus aucuparia,1,Plants,C
+Juglans regia,1,Plants,C
+Acer platanoides ,7,Plants,C
+Fraxinus exelsior,2,Plants,C
+Taraxacum officinale,1,Plants,C
+Crataegus monogyna,1,Plants,C
+Anemone nemorosa,100,Plants,C
+Lolium perenne,100,Plants,C
+Betula pendula ,1,Plants ,C
+Urtica dioica ,100,Plants ,C
+Coccinella septempuncata ,1,Animals,C
+Lasius niger,8,Animals ,C
+Cepaea nemoralis,1,Animals ,C
+Apis mellifera,2,Animals ,C
+Turdus merula,1,Animals ,C
+Vespula vulgaris,1,Animals ,C
+Formica rufa,3,Animals ,C
+Pieris brassicae,2,Animals ,C
+Colias sp.,1,Animal,D
+Melanargia galathea,5,Animal,D
+Manjola jurtina,1,Animal,D
+Cetonia aurata,2,Animal,D
+Phylloscopus collybita,2,Animal,D
+Turdus merula,1,Animal,D
+Passer montanus,3,Animal,D
+Parus major,2,Animal,D
+Phoenicurus phoenicurus,1,Animal,D
+Hirudo rustica,3,Animal,D
+Carduelis carduelis,2,Animal,D
+Euonymus fortunei,5,Plants,D
+Rosa dumalis,10,Plants,D
+Prunus mahaleb,8,Plants,D
+Ligustrum vulgare,3,Plants,D
+Acer platanoides,7,Plants,D
+Cotoneaster dammeri,3,Plants,D
+Urtica dioica,20,Plants,D
+Hypericum perforatum,8,Plants,D
+Berberis aquifolium,1,Plants,D
+Daucus carota,22,Plants,D
+Dianthus carthusianorum,1,Plants,D
